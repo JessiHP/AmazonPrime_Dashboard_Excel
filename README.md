@@ -1,4 +1,4 @@
-# 📊 Análisis de Churn - Amazon Prime
+# 📊 Análisis de la Tasa de abandono (Churn) - Amazon Prime
 
 ## 📌 Objetivo
 
@@ -99,7 +99,7 @@ Amazonprime_Dashboard_Excel/
 
 - **Favorite TV show** *(str)*: programa de televisión favorito del cliente.
 
-- **Internal Notes** *(s: Notas internas.
+- **Internal Notes** *(str)*: Notas internas.
 
 ## 🧪 Desarrollo del Proyecto
 
@@ -114,3 +114,28 @@ Se examinan los datos utilizando resúmenes estadísticos descriptivos, tablas d
 
 #### 4. Dashboard
 Se crea un panel interactivo con los Indicadores Clave de Rendimiento (KPI) y las visualizaciones más detalladas. (Ver Notebook -> 4_Dashboard.ipnyb).
+
+## 📈 Conclusiones
+
+1. La tasa general de abandono aumentó al 27 % entre enero de 2020 y diciembre de 2023.
+
+2. A los suscriptores que abandonaron la suscripción se les cobró casi un 5 % más al mes que el promedio.
+
+3. Una vez que el cliente llama al servicio por tercera vez, la probabilidad de cancelar es mayor que la de mantener la suscripción, alcanzando casi el 90 % y aumentando con las llamadas posteriores.
+
+4. Las principales razones de la pérdida de clientes son la mejor oferta de productos de la competencia y la buena atención al cliente.
+
+5. La pérdida de clientes se reduce en un 20 % después de un año de suscripción y continúa disminuyendo hasta valores insignificantes a medida que la cuenta se prolonga.
+
+6. Los contratos mensuales favorecen significativamente la cancelación de la suscripción en comparación con los contratos anuales. Además, los suscriptores con un contrato mensual tienen más probabilidad de abandonar la plataforma que de permanecer suscritos cuando pagan con domiciliación bancaria o tarjeta de débito
+
+7. Durante el período analizado, agosto siempre ha sido un mes con muchas cancelaciones. Sin embargo, sorprendentemente, desde 2021, marzo también ha mostrado un comportamiento similar, siendo el mes con las tasas de abandono más altas en 2021 y 2023.
+---
+
+## 🤝 Contribuciones
+
+Las contribuciones a este proyecto son bienvenidas.
+
+## 📊 Dashboard
+
+![alt text](image.png)
